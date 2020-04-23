@@ -1,5 +1,5 @@
 {
-  "name": "@hospital-sdk/scheduler",
+  "name": "test-scheduler",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Pk <prashantkumark@zeta.tech>",
@@ -20,5 +20,6 @@
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "45e5ec8fbf682af7e8422df5cf2ee04c1e1589a3"
 }
