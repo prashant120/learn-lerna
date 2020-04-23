@@ -1,6 +1,6 @@
 {
   "name": "@hospital-sdk/scheduler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Pk <prashantkumark@zeta.tech>",
   "homepage": "",
@@ -15,7 +15,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access":"public"
+    "access": "public"
   },
   "scripts": {
     "tsc": "tsc",
